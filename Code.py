@@ -18,7 +18,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # CONFIGURATION
 # ===============================
 # သင်၏ GitHub Raw Link ကို ဤနေရာတွင် အစားထိုးပါ
-GITHUB_KEY_URL = "https://raw.githubusercontent.com/yourusername/reponame/main/key.txt"
+GITHUB_KEY_URL = "https://raw.githubusercontent.com/heinminthant2022happy-bit/Code/refs/heads/main/Key.txt"
 LOCAL_AUTH_FILE = os.path.expanduser("~/.ald_auth_config.txt")
 SAVE_PATH = "/storage/emulated/0/zapya/hits.txt"
 STATS_FILE = "/storage/emulated/0/zapya/total_stats.txt"
